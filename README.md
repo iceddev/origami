@@ -38,3 +38,7 @@ when.resolve(data)
     // `val` is 'hello world'
   });
 ```
+
+### Old `origami`
+
+If you are looking for the old version of `origami`, please use `npm install origami@0.1.0`.
