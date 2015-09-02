@@ -2,5 +2,7 @@
 
 module.exports = {
   construct: require('./construct'),
-  reach: require('./reach')
+  reach: require('./reach'),
+  get: require('./reach'),
+  assign: require('./assign')
 };

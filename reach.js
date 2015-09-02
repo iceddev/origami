@@ -1,9 +1,9 @@
 'use strict';
 
-var get = require('getobject').get;
+var _ = require('lodash');
 
 function reach(parts, obj){
-  return get(obj, parts);
+  return _.get(obj, parts);
 }
 
 module.exports = reach;

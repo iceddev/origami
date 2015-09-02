@@ -29,6 +29,6 @@
     "when": "^3.6.4"
   },
   "dependencies": {
-    "getobject": "^0.1.0"
+    "lodash": "^3.10.1"
   }
 }
